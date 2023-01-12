@@ -1,63 +1,109 @@
 fileFormatVersion: 2
 guid: 30d7ad73d806d41848bc9c34c9df579d
-timeCreated: 1440312422
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: walking_robot1
-    21300002: walking_robot2
-    21300004: walking_robot3
-    21300006: walking_robot4
-    21300008: walking_robot5
-    21300010: walking_robot6
-    21300012: walking_robot7
-    21300014: walking_robot8
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: walking_robot1
+  - first:
+      213: 21300002
+    second: walking_robot2
+  - first:
+      213: 21300004
+    second: walking_robot3
+  - first:
+      213: 21300006
+    second: walking_robot4
+  - first:
+      213: 21300008
+    second: walking_robot5
+  - first:
+      213: 21300010
+    second: walking_robot6
+  - first:
+      213: 21300012
+    second: walking_robot7
+  - first:
+      213: 21300014
+    second: walking_robot8
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 4096
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: walking_robot1
+    - serializedVersion: 2
+      name: walking_robot1
       rect:
         serializedVersion: 2
         x: 2
@@ -65,9 +111,20 @@ TextureImporter:
         width: 80
         height: 164
       alignment: 9
-      pivot: {x: .524999976, y: .524390221}
+      pivot: {x: 0.525, y: 0.5243902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: walking_robot2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_robot2
       rect:
         serializedVersion: 2
         x: 214
@@ -75,9 +132,20 @@ TextureImporter:
         width: 96
         height: 168
       alignment: 9
-      pivot: {x: .520833313, y: .511904776}
+      pivot: {x: 0.5208333, y: 0.5119048}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: walking_robot3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_robot3
       rect:
         serializedVersion: 2
         x: 2
@@ -85,9 +153,20 @@ TextureImporter:
         width: 104
         height: 172
       alignment: 9
-      pivot: {x: .519230783, y: .5}
+      pivot: {x: 0.5192308, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: walking_robot4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_robot4
       rect:
         serializedVersion: 2
         x: 214
@@ -95,9 +174,20 @@ TextureImporter:
         width: 96
         height: 168
       alignment: 9
-      pivot: {x: .520833313, y: .511904776}
+      pivot: {x: 0.5208333, y: 0.5119048}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: walking_robot5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_robot5
       rect:
         serializedVersion: 2
         x: 84
@@ -105,9 +195,20 @@ TextureImporter:
         width: 80
         height: 164
       alignment: 9
-      pivot: {x: .524999976, y: .524390221}
+      pivot: {x: 0.525, y: 0.5243902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: walking_robot6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_robot6
       rect:
         serializedVersion: 2
         x: 312
@@ -115,9 +216,20 @@ TextureImporter:
         width: 88
         height: 168
       alignment: 9
-      pivot: {x: .522727251, y: .511904776}
+      pivot: {x: 0.52272725, y: 0.5119048}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: walking_robot7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_robot7
       rect:
         serializedVersion: 2
         x: 108
@@ -125,9 +237,20 @@ TextureImporter:
         width: 104
         height: 172
       alignment: 9
-      pivot: {x: .519230783, y: .5}
+      pivot: {x: 0.5192308, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: walking_robot8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking_robot8
       rect:
         serializedVersion: 2
         x: 312
@@ -135,9 +258,31 @@ TextureImporter:
         width: 88
         height: 168
       alignment: 9
-      pivot: {x: .522727251, y: .511904776}
+      pivot: {x: 0.52272725, y: 0.5119048}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -6,8 +6,8 @@ Example/UnityGenerated/
 #Example/ProjectSettings/*.asset
 Example/Assets/codeandweb.com
 Example/Assets/codeandweb.com.meta
-Example/Assets/Plugins/Pixelplacement
-Example/Assets/Plugins/Pixelplacement.meta
+#Example/Assets/Plugins/Pixelplacement
+#Example/Assets/Plugins/Pixelplacement.meta
   
 # ----[ Visual Studio / MonoDevelop generated ]------- #
   
@@ -37,3 +37,4 @@ Thumbs.db
 *.unity3d
 *.apk
 Example/build
+/Example/Logs
